@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+nav{
+    position: relative;
+    text-transform: capitalize;
+    display: flex;
+}
+nav h2{
+    padding-left: 10px;
+    font-weight: 200;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    padding-left: 750px;
+    padding-top: 10px;
+}
+nav ul li{
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: 200;
+}
+#imgbg{
+    
+    margin-top: -170px;
+}
+#logo svg{
+    margin-left: 10px;
+
+}
